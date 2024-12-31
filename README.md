@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Vue.js
 ----------------------
 
-*   🌍  I'm based in Ukraine
 *   ✉️  You can contact me at [svvdevel@gmail.com](mailto:svvdevel@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects### Skills 
 <p align="left">
